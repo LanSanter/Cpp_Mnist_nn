@@ -18,11 +18,12 @@ Please download and extract these libraries to a project directory named `eigen-
 
 ## Project Structure
 ```markdown
-- Neuron_layer.h
-- Neuron_layer.cpp
-- mnist_reader.h
-- mnist_reader.cpp
-- main.cpp
+- NeuronNetwork
+    - Neuron_layer.h
+    - Neuron_layer.cpp
+    - mnist_reader.h
+    - mnist_reader.cpp
+    - main.cpp
 - mnist (directory containing MNIST dataset)
     - train-images-idx3-ubyte.gz
     - train-labels-idx1-ubyte.gz
