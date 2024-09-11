@@ -91,3 +91,5 @@ net.save_weight("weights.bin");  // Save trained weights
 ## License
 This project is licensed under the MIT License 
 
+This makedown file is powered by LLM.
+
